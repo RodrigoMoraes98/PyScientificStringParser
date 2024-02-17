@@ -18,4 +18,4 @@ Outuput: `1.2e3`
 It is compatible with all the metric system prefixes.
 
 ## Installation
-You can install this package by calling `pip install sciscistringparser`.
+You can install this package by calling `pip install scistringparser`.
